@@ -1,0 +1,10 @@
+create table ITEMS (
+  NAME        VARCHAR(20),
+  PRICE      INTEGER,
+  WEIGHT      INTEGER
+);
+insert into ITEMS
+values ('やくそう',5,2);
+insert into ITEMS
+values ('どくけしそう',7,2)
+
